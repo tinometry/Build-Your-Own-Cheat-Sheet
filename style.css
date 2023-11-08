@@ -1,4 +1,13 @@
-.welcome {
-    margin-left: 160;
+* {
+    margin-left: 160px;
+    margin-right: 160px;
+}
 
+.welcome {
+    
+
+}
+
+.welcome#flower {
+    display: inline-block;
 }
